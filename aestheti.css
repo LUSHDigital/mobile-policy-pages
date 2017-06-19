@@ -88,17 +88,17 @@ h2 {
 }
 
 .icon--telephone {
-  background-image: url('../style/icons/telephone.svg');
+  background-image: url('./style/icons/telephone.svg');
 }
 
 .icon--email {
-  background-image: url('../style/icons/envelope.svg');
+  background-image: url('./style/icons/envelope.svg');
 }
 
 .icon--twitter {
-  background-image: url('../style/icons/twitter.svg');
+  background-image: url('./style/icons/twitter.svg');
 }
 
 .icon--facebook {
-  background-image: url('../style/icons/facebook.svg');
+  background-image: url('./style/icons/facebook.svg');
 }
